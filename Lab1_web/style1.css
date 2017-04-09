@@ -1,0 +1,49 @@
+h1 {
+	text-transform: uppercase;
+	color: #29083C;
+}
+
+.intro {
+	font-style: italic;
+	text-align: right;
+}
+
+p {
+   font-size: 20px;
+   text-indent: 50px;
+   text-align: justify;
+   padding: 10px, 10px, 10px, 10px;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+	margin: 10px;
+	display: block;
+}
+
+.cite {
+	text-indent: 0;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-weight: italic; 
+	background: #cccccc;
+}
+
+a:hover {
+	color: #4fa2ba;
+}
+
+a:link {
+    font-size: 25px;
+	text-align: right;
+	color: #000f5c;
+}
+
+#image1 {
+	float: left;
+}
+
+#image2 {
+    float: right;
+}
